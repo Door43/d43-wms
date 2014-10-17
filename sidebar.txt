@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wms:home|Door43 (wms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wms|d43-wms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wms/archive/master.zip|d43-wms.zip]]
+
+**Recent Changes**
+{{changes>ns = wms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wms|Ethnologue data]]
+
